@@ -1,0 +1,28 @@
+# Site settings
+name: 
+description: "coming soon..."
+url: "https://www.housepoints.xyz"
+
+
+# Delete the lines you don't need
+# about 5 elements are recomended
+email: info@housepoints.xyz
+
+avatar: yes
+#avatar_img_path: "imgs/avatar.jpg"" 
+# You can link to your GitHub image. That way it will get updated
+# automatically whenever you change your GitHub profile picture
+avatar_img_path: "imgs/logo_white.png"
+
+front_img: no
+front_img_path: "imgs/background.jpg"
+#front_img_path: "https://external.url/image.jpg"
+
+
+favicon_img: yes
+favicon_img_path: "imgs/favicon.png"
+#favicon_img_path: "https://external.url/favicon.ico"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
